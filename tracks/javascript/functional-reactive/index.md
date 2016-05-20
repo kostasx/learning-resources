@@ -36,5 +36,4 @@
 * [Programming With Functions](http://slidedeck.io/wilhelmson/programming-with-functions)
 * [Functional Programming in JavaScript](https://dzone.com/refcardz/functional-programming-with-javascript)
 * [Reactive Programming in JavaScript With RxJS](https://dzone.com/refcardz/rxjs-streams)
-
 * [Awesome Functional Programming](https://github.com/xgrommx/awesome-functional-programming)
